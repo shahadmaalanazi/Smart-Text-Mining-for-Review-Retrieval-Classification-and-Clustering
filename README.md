@@ -2,7 +2,7 @@
 
 ---
 
-## Overview
+## Overview 
 
 This project builds a smart information retrieval and text analysis system that processes customer reviews from two domains: **beauty salons** (domain-related) and **gyms** (out-of-domain). It applies NLP techniques to clean and analyze text, retrieve similar documents using TF-IDF and cosine similarity, classify emails as spam/ham, and cluster documents using K-Means.
 
