@@ -1,7 +1,5 @@
 # Smart Text Mining for Review Retrieval, Classification, and Clustering
 
-**CAI211 Project** | Princess Nourah Bint Abdulrahman University | 20/4/2025
-
 ---
 
 ## Overview
